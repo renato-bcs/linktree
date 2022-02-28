@@ -10,7 +10,8 @@ html, body {
 body {
     color: white;  
     font-family: 'Raleway', sans-serif;
-    background: rgb(54,77,204);
+   /* background: rgb(54,77,204);*/
+   background: green;
     background: linear-gradient(180deg, rgba(54,77,204,1) 0%, rgba(122,135,208,1) 62%);
 }
 
